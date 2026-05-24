@@ -219,7 +219,7 @@ conversation.created from blessing35@gmail.com phone +233-23-257-674 issue login
 {"event": "form.submitted", "data": "name:ibrahim email:amara60@yahoo.com phone:0729888137 card:3376368517494184 amount:$2694"}
 conversation.created from tendai53@alumni.alueducation.com phone +233-45-484-578 issue login failed at 11:58 PM
 conversation.created from fatima68@gmail.com phone +233-24-754-143 issue login failed at 2:25 PM
-{"event": "form.submitted", "data": "name:ibrahim email:yemi92@alueducation.com phone:+254 721 975 545 card:4810523719274738 amount:$1955"}
+{"event": "form.submitted", "data": "name:ibrahim "email":"broken@@gmail.com","phone": phone:+254 721 975 545 card:4810523719274738 amount:$1955"}
 conversation.created from kofi49@si.alueducation.com phone 0773033089 issue login failed at 4:15 PM
 {"ts": "1714260686", "src": "typeform", "body": "payment failed $4380 card 7862760075968342 email ibrahim37@gmail.com visit https://portal.alueducation.com?id=209", "ip": "197.234.71.88"}
 conversation.created from ibrahim18@gmail.com phone +233-50-921-938 issue login failed at 5:46 PM
@@ -230,271 +230,32 @@ conversation.created from tendai24@alueducation.com phone +254 729 351 755 issue
 conversation.created from ibrahim81@alumni.alueducation.com phone +233-46-718-888 issue login failed at 5:37 PM
 {"event": "form.submitted", "data": "name:blessing email:chinwe76@alueducation.com phone:+254 791 327 489 card:8147350455897785 amount:$3022"}
 {"ts": "1728200237", "src": "typeform", "body": "payment failed $2342 card 7046808674738998 email blessing97@hotmail.com visit https://portal.alueducation.com?id=658", "ip": "102.68.12.9"}
-{"event": "form.submitted", "data": "name:sophia email:chinwe68@gmail.com phone:0795550428 card:3656407480514736 amount:$4238"}
-conversation.created from tendai15@alueducation.com phone 0789955612 issue login failed at 11:19 PM
-{"ts": "1737902996", "src": "typeform", "body": "payment failed $4449 card 8920166193308782 email tendai82@yahoo.com visit https://portal.alueducation.com?id=967", "ip": "10.0.0.1"}
-conversation.created from sophia52@yahoo.com phone +233-44-598-927 issue login failed at 4:35 PM
-{"event": "form.submitted", "data": "name:amara email:tendai17@hotmail.com phone:+254 793 180 979 card:3688717032582685 amount:$4661"}
-{"event": "form.submitted", "data": "name:ibrahim email:blessing37@gmail.com phone:+254 712 802 531 card:2441883303377177 amount:$4005"}
-{"event": "form.submitted", "data": "name:fatima email:fatima11@alumni.alueducation.com phone:0704222488 card:8413260116271728 amount:$433"}
-conversation.created from kwame53@si.alueducation.com phone +254 752 362 138 issue login failed at 3:25 PM
-conversation.created from sophia40@alueducation.com phone 0731609434 issue login failed at 1:46 PM
-conversation.created from ibrahim58@gmail.com phone +233-44-106-362 issue login failed at 7:22 PM
-{"ts": "1733422086", "src": "zapier", "body": "payment failed $2869 card 3247783973196712 email kwame19@alumni.alueducation.com visit https://portal.alueducation.com?id=605", "ip": "41.186.93.12"}
-{"ts": "1736419016", "src": "intercom", "body": "payment failed $4025 card 5902306770711854 email yemi23@alumni.alueducation.com visit https://portal.alueducation.com?id=321", "ip": "41.186.93.12"}
-{"event": "form.submitted", "data": "name:sophia email:amara21@gmail.com phone:+233-26-236-764 card:4378059581583464 amount:$2770"}
-conversation.created from amara62@gmail.com phone 0747289936 issue login failed at 1:21 PM
-{"event": "form.submitted", "data": "name:tendai email:blessing92@gmail.com phone:0714578888 card:9475765259651054 amount:$1840"}
-{"ts": "1703643671", "src": "typeform", "body": "payment failed $2672 card 5339359260998497 email kofi79@gmail.com visit https://portal.alueducation.com?id=772", "ip": "102.68.12.9"}
-{"event": "form.submitted", "data": "name:tendai email:blessing64@gmail.com phone:+233-36-362-198 card:9949505917789129 amount:$4696"}
-{"event": "form.submitted", "data": "name:chinwe email:tendai70@yahoo.com phone:+233-39-571-128 card:1896971231454756 amount:$2147"}
-conversation.created from sophia22@si.alueducation.com phone +233-55-254-496 issue login failed at 10:27 PM
-{"event": "form.submitted", "data": "name:blessing email:yemi99@gmail.com phone:0786031598 card:0357595877325433 amount:$2330"}
-conversation.created from sophia53@gmail.com phone 0739646832 issue login failed at 7:33 PM
-conversation.created from yemi29@si.alueducation.com phone 0708389333 issue login failed at 1:35 PM
-{"event": "form.submitted", "data": "name:yemi email:blessing47@gmail.com phone:+254 744 603 859 card:4624808222798157 amount:$4803"}
-conversation.created from blessing83@alumni.alueducation.com phone +254 782 736 169 issue login failed at 1:15 PM
-{"ts": "1735194863", "src": "webhook", "body": "payment failed $195 card 0465663535533379 email ibrahim40@si.alueducation.com visit https://portal.alueducation.com?id=186", "ip": "102.68.12.9"}
-conversation.created from kofi51@alumni.alueducation.com phone 0791937986 issue login failed at 8:47 PM
-conversation.created from ibrahim68@hotmail.com phone 0765924509 issue login failed at 4:59 PM
-{"ts": "1732526642", "src": "zapier", "body": "payment failed $4583 card 2636717671121966 email amara83@yahoo.com visit https://portal.alueducation.com?id=548", "ip": "154.160.7.23"}
-{"ts": "1725830025", "src": "slack", "body": "payment failed $2748 card 5888304778979301 email amara50@hotmail.com visit https://portal.alueducation.com?id=166", "ip": "154.160.7.23"}
-{"ts": "1707533409", "src": "github", "body": "payment failed $528 card 1471722763440226 email kofi75@hotmail.com visit https://portal.alueducation.com?id=132", "ip": "10.0.0.1"}
-conversation.created from kwame66@hotmail.com phone 0720368637 issue login failed at 4:34 PM
-{"event": "form.submitted", "data": "name:blessing email:tendai40@yahoo.com phone:0788751757 card:1922437508144939 amount:$3889"}
-conversation.created from sophia78@si.alueducation.com phone +233-26-984-876 issue login failed at 4:47 PM
-{"event": "form.submitted", "data": "name:blessing email:tendai92@alumni.alueducation.com phone:+233-32-318-845 card:4681818009906961 amount:$3270"}
-{"ts": "1706091965", "src": "typeform", "body": "payment failed $2252 card 1079789013449925 email blessing91@si.alueducation.com visit https://portal.alueducation.com?id=808", "ip": "197.234.71.88"}
-{"ts": "1711471742", "src": "intercom", "body": "payment failed $3759 card 3310779455735351 email kofi17@alueducation.com visit https://portal.alueducation.com?id=462", "ip": "102.68.12.9"}
-{"ts": "1728615611", "src": "slack", "body": "payment failed $2806 card 4757736552688797 email kwame99@si.alueducation.com visit https://portal.alueducation.com?id=774", "ip": "102.68.12.9"}
-conversation.created from kofi23@alumni.alueducation.com phone +254 775 353 118 issue login failed at 12:15 PM
-{"event": "form.submitted", "data": "name:tendai email:chinwe57@alumni.alueducation.com phone:0722603152 card:7199499208607889 amount:$1014"}
-{"event": "form.submitted", "data": "name:kofi email:tendai44@yahoo.com phone:+254 789 138 847 card:4660022788692596 amount:$283"}
-conversation.created from kwame55@si.alueducation.com phone +254 718 532 659 issue login failed at 6:18 PM
-conversation.created from sophia66@alueducation.com phone 0786576170 issue login failed at 5:26 PM
-{"ts": "1709376294", "src": "slack", "body": "payment failed $4216 card 5656651385774826 email sophia65@hotmail.com visit https://portal.alueducation.com?id=130", "ip": "41.186.93.12"}
-{"ts": "1722725782", "src": "unknown", "body": "payment failed $578 card 4325091687126959 email kofi90@alueducation.com visit https://portal.alueducation.com?id=221", "ip": "41.186.93.12"}
-conversation.created from sophia33@si.alueducation.com phone 0771841730 issue login failed at 5:53 PM
-conversation.created from sophia50@yahoo.com phone +254 734 102 401 issue login failed at 3:28 PM
-{"ts": "1737829269", "src": "unknown", "body": "payment failed $950 card 2541409218169340 email chinwe25@hotmail.com visit https://portal.alueducation.com?id=355", "ip": "197.234.71.88"}
-conversation.created from blessing23@yahoo.com phone +254 711 529 508 issue login failed at 2:53 PM
-{"ts": "1729215217", "src": "github", "body": "payment failed $3484 card 0830498359914176 email fatima88@hotmail.com visit https://portal.alueducation.com?id=167", "ip": "10.0.0.1"}
-{"ts": "1720558970", "src": "unknown", "body": "payment failed $4441 card 2769281408404632 email tendai11@alueducation.com visit https://portal.alueducation.com?id=358", "ip": "41.186.93.12"}
-{"ts": "1714924225", "src": "slack", "body": "payment failed $2698 card 0778633841050718 email blessing90@si.alueducation.com visit https://portal.alueducation.com?id=835", "ip": "102.68.12.9"}
-conversation.created from chinwe79@yahoo.com phone +254 713 817 779 issue login failed at 7:33 PM
-{"ts": "1736512157", "src": "unknown", "body": "payment failed $4195 card 4959112781071495 email kofi96@alueducation.com visit https://portal.alueducation.com?id=302", "ip": "10.0.0.1"}
-conversation.created from ibrahim50@alumni.alueducation.com phone +233-37-149-534 issue login failed at 3:40 PM
-{"event": "form.submitted", "data": "name:fatima email:amara28@alumni.alueducation.com phone:0715381553 card:8988158740781341 amount:$115"}
-{"event": "form.submitted", "data": "name:kofi email:ibrahim46@alueducation.com phone:0704150624 card:9840277971565937 amount:$1613"}
-{"ts": "1704482599", "src": "webhook", "body": "payment failed $50 card 2577454402781097 email sophia24@yahoo.com visit https://portal.alueducation.com?id=770", "ip": "102.68.12.9"}
-{"ts": "1725031733", "src": "slack", "body": "payment failed $918 card 0388241620371288 email chinwe55@alueducation.com visit https://portal.alueducation.com?id=596", "ip": "154.160.7.23"}
-{"ts": "1729509766", "src": "support", "body": "payment failed $1465 card 2924810002811132 email yemi77@gmail.com visit https://portal.alueducation.com?id=740", "ip": "41.186.93.12"}
-{"ts": "1708412790", "src": "github", "body": "payment failed $497 card 7531876734713986 email kwame69@alueducation.com visit https://portal.alueducation.com?id=818", "ip": "102.68.12.9"}
-{"event": "form.submitted", "data": "name:chinwe email:tendai64@yahoo.com phone:+254 710 843 917 card:9357806891733267 amount:$3575"}
-{"event": "form.submitted", "data": "name:tendai email:yemi48@gmail.com phone:+254 718 433 777 card:0968079748096903 amount:$1820"}
-{"event": "form.submitted", "data": "name:kwame email:kwame79@hotmail.com phone:+254 729 688 491 card:7456615010522602 amount:$4909"}
-{"event": "form.submitted", "data": "name:yemi email:sophia78@hotmail.com phone:+254 725 835 170 card:7050104423802561 amount:$910"}
-conversation.created from kwame71@hotmail.com phone +254 741 478 569 issue login failed at 2:18 PM
-conversation.created from tendai75@hotmail.com phone 0767726254 issue login failed at 3:48 PM
-{"ts": "1737697071", "src": "slack", "body": "payment failed $3002 card 5401871236975237 email fatima28@yahoo.com visit https://portal.alueducation.com?id=210", "ip": "197.234.71.88"}
-{"event": "form.submitted", "data": "name:amara email:kofi46@gmail.com phone:+233-23-751-916 card:0938440881215124 amount:$2275"}
-conversation.created from kwame49@yahoo.com phone +233-55-759-486 issue login failed at 6:39 PM
-{"event": "form.submitted", "data": "name:chinwe email:fatima62@alueducation.com phone:+233-31-557-753 card:9173208189259147 amount:$2626"}
-{"event": "form.submitted", "data": "name:blessing email:yemi91@yahoo.com phone:+233-55-122-479 card:4233279698436589 amount:$847"}
-conversation.created from ibrahim37@gmail.com phone +254 756 229 849 issue login failed at 12:40 PM
-{"ts": "1713800514", "src": "webhook", "body": "payment failed $2143 card 7955311025752651 email yemi99@gmail.com visit https://portal.alueducation.com?id=506", "ip": "10.0.0.1"}
-conversation.created from blessing35@si.alueducation.com phone 0735517881 issue login failed at 9:43 PM
-{"event": "form.submitted", "data": "name:chinwe email:sophia60@hotmail.com phone:+233-59-204-126 card:8935465969659176 amount:$1620"}
-{"event": "form.submitted", "data": "name:yemi email:fatima17@gmail.com phone:+254 753 198 262 card:4125058532847546 amount:$4241"}
-{"event": "form.submitted", "data": "name:chinwe email:fatima97@yahoo.com phone:0737699639 card:7720596638105238 amount:$3"}
-{"ts": "1729018997", "src": "zapier", "body": "payment failed $1929 card 5598864172851369 email blessing93@si.alueducation.com visit https://portal.alueducation.com?id=759", "ip": "197.234.71.88"}
-conversation.created from kwame13@si.alueducation.com phone +233-44-635-631 issue login failed at 12:17 PM
-{"ts": "1722989368", "src": "webhook", "body": "payment failed $1734 card 0317400710698220 email ibrahim83@alumni.alueducation.com visit https://portal.alueducation.com?id=431", "ip": "10.0.0.1"}
-{"event": "form.submitted", "data": "name:sophia email:sophia65@si.alueducation.com phone:+254 799 734 914 card:0558308029057900 amount:$1626"}
-conversation.created from fatima55@alueducation.com phone 0797330458 issue login failed at 11:12 PM
-{"event": "form.submitted", "data": "name:kofi email:ibrahim21@alueducation.com phone:+233-30-857-217 card:7785538350972829 amount:$340"}
-conversation.created from ibrahim97@yahoo.com phone 0789886501 issue login failed at 4:53 PM
-conversation.created from blessing58@gmail.com phone 0730957478 issue login failed at 1:21 PM
-{"event": "form.submitted", "data": "name:chinwe email:ibrahim78@gmail.com phone:0748291214 card:1997541301870944 amount:$193"}
-{"event": "form.submitted", "data": "name:chinwe email:chinwe65@si.alueducation.com phone:+254 788 492 529 card:1820346075262815 amount:$2697"}
-conversation.created from amara36@alumni.alueducation.com phone +233-27-154-993 issue login failed at 8:19 PM
-{"event": "form.submitted", "data": "name:kofi email:amara27@yahoo.com phone:+254 715 591 644 card:0428843340907968 amount:$3824"}
-conversation.created from blessing37@hotmail.com phone +233-22-358-877 issue login failed at 8:51 PM
-conversation.created from chinwe13@hotmail.com phone +233-29-831-780 issue login failed at 1:45 PM
-conversation.created from amara39@si.alueducation.com phone 0707193457 issue login failed at 11:33 PM
-conversation.created from sophia68@gmail.com phone 0718018835 issue login failed at 2:51 PM
-{"ts": "1734933170", "src": "webhook", "body": "payment failed $2452 card 8918276669314979 email chinwe25@gmail.com visit https://portal.alueducation.com?id=532", "ip": "154.160.7.23"}
-conversation.created from kofi84@alueducation.com phone +233-55-739-973 issue login failed at 12:47 PM
-{"ts": "1703377581", "src": "intercom", "body": "payment failed $3801 card 8416770065922530 email blessing54@alueducation.com visit https://portal.alueducation.com?id=362", "ip": "41.186.93.12"}
-conversation.created from kofi98@gmail.com phone 0792413308 issue login failed at 2:49 PM
-conversation.created from ibrahim32@yahoo.com phone +233-20-482-517 issue login failed at 4:53 PM
-{"ts": "1711233163", "src": "typeform", "body": "payment failed $3728 card 2947734398521113 email sophia73@gmail.com visit https://portal.alueducation.com?id=545", "ip": "197.234.71.88"}
-{"ts": "1701115384", "src": "github", "body": "payment failed $1476 card 4582147373130205 email blessing99@gmail.com visit https://portal.alueducation.com?id=551", "ip": "197.234.71.88"}
-{"ts": "1719542636", "src": "slack", "body": "payment failed $2847 card 8259362944950896 email fatima14@alumni.alueducation.com visit https://portal.alueducation.com?id=716", "ip": "102.68.12.9"}
-conversation.created from amara85@si.alueducation.com phone +233-44-955-616 issue login failed at 11:28 PM
-{"ts": "1720986307", "src": "zapier", "body": "payment failed $190 card 3911037362902542 email kofi85@si.alueducation.com visit https://portal.alueducation.com?id=443", "ip": "197.234.71.88"}
-{"event": "form.submitted", "data": "name:amara email:kofi68@gmail.com phone:+233-31-790-458 card:7602707714547191 amount:$1133"}
-{"event": "form.submitted", "data": "name:sophia email:chinwe83@yahoo.com phone:0790846097 card:2745767371034070 amount:$3766"}
-conversation.created from yemi56@alueducation.com phone +233-24-164-238 issue login failed at 11:49 PM
-{"ts": "1714293562", "src": "webhook", "body": "payment failed $4418 card 9584468270213188 email ibrahim73@hotmail.com visit https://portal.alueducation.com?id=846", "ip": "10.0.0.1"}
-{"event": "form.submitted", "data": "name:chinwe email:amara37@si.alueducation.com phone:0750129269 card:6308956824741835 amount:$2556"}
-{"ts": "1712301940", "src": "typeform", "body": "payment failed $4287 card 7955525378478474 email fatima96@gmail.com visit https://portal.alueducation.com?id=733", "ip": "197.234.71.88"}
-conversation.created from sophia70@si.alueducation.com phone 0706230243 issue login failed at 3:29 PM
-{"event": "form.submitted", "data": "name:kwame email:amara35@hotmail.com phone:0706400646 card:7958195027506929 amount:$240"}
-{"event": "form.submitted", "data": "name:tendai email:kwame74@alueducation.com phone:+233-45-277-891 card:2384583704401286 amount:$144"}
-{"ts": "1731473684", "src": "typeform", "body": "payment failed $4635 card 2091748071160288 email ibrahim73@alueducation.com visit https://portal.alueducation.com?id=442", "ip": "10.0.0.1"}
-{"ts": "1736352764", "src": "support", "body": "payment failed $1553 card 8288873718931318 email tendai97@hotmail.com visit https://portal.alueducation.com?id=707", "ip": "41.186.93.12"}
-{"ts": "1719019236", "src": "slack", "body": "payment failed $2519 card 3049206925970992 email kwame67@alueducation.com visit https://portal.alueducation.com?id=620", "ip": "197.234.71.88"}
-{"ts": "1719053140", "src": "webhook", "body": "payment failed $3707 card 8225015490312145 email blessing82@alumni.alueducation.com visit https://portal.alueducation.com?id=608", "ip": "102.68.12.9"}
-{"event": "form.submitted", "data": "name:chinwe email:chinwe50@yahoo.com phone:0767328720 card:5437393252182755 amount:$4918"}
-conversation.created from kwame48@yahoo.com phone 0757665117 issue login failed at 9:45 PM
-conversation.created from amara94@gmail.com phone +233-47-489-324 issue login failed at 11:31 PM
-conversation.created from sophia99@hotmail.com phone 0796025857 issue login failed at 8:36 PM
-{"event": "form.submitted", "data": "name:kofi email:tendai61@hotmail.com phone:+254 789 288 845 card:7893072345678842 amount:$3543"}
-{"ts": "1706425891", "src": "slack", "body": "payment failed $4157 card 6479509183851214 email ibrahim37@gmail.com visit https://portal.alueducation.com?id=361", "ip": "102.68.12.9"}
-{"ts": "1717354126", "src": "intercom", "body": "payment failed $4224 card 9692554036917917 email fatima70@alumni.alueducation.com visit https://portal.alueducation.com?id=190", "ip": "102.68.12.9"}
-conversation.created from sophia63@alueducation.com phone +254 725 731 735 issue login failed at 11:38 PM
-{"event": "form.submitted", "data": "name:sophia email:yemi23@alueducation.com phone:+254 760 669 136 card:8144615633350543 amount:$1148"}
-{"ts": "1725411899", "src": "github", "body": "payment failed $118 card 5502123208140733 email sophia82@si.alueducation.com visit https://portal.alueducation.com?id=329", "ip": "102.68.12.9"}
-{"ts": "1738132587", "src": "unknown", "body": "payment failed $742 card 9372942609468186 email blessing57@si.alueducation.com visit https://portal.alueducation.com?id=335", "ip": "102.68.12.9"}
-conversation.created from yemi61@gmail.com phone 0700863686 issue login failed at 7:41 PM
-{"ts": "1738129188", "src": "slack", "body": "payment failed $1640 card 6686593245660454 email yemi53@si.alueducation.com visit https://portal.alueducation.com?id=363", "ip": "41.186.93.12"}
-{"event": "form.submitted", "data": "name:sophia email:ibrahim66@alumni.alueducation.com phone:+233-35-568-922 card:8068536025600077 amount:$3889"}
-conversation.created from fatima38@si.alueducation.com phone +254 771 980 210 issue login failed at 7:21 PM
-{"event": "form.submitted", "data": "name:ibrahim email:amara32@si.alueducation.com phone:+254 753 424 330 card:0429000006828252 amount:$1204"}
-{"event": "form.submitted", "data": "name:amara email:tendai89@alumni.alueducation.com phone:0716208191 card:7877242130835154 amount:$1354"}
-{"event": "form.submitted", "data": "name:fatima email:yemi80@alueducation.com phone:0792070693 card:4005286467809902 amount:$2282"}
-{"ts": "1738550222", "src": "webhook", "body": "payment failed $824 card 9672405963819730 email kofi12@gmail.com visit https://portal.alueducation.com?id=805", "ip": "41.186.93.12"}
-conversation.created from sophia32@gmail.com phone +254 774 892 685 issue login failed at 4:21 PM
-conversation.created from yemi56@si.alueducation.com phone +233-45-959-505 issue login failed at 2:56 PM
-{"event": "form.submitted", "data": "name:chinwe email:kofi34@si.alueducation.com phone:0743283045 card:4758149676187674 amount:$4100"}
-{"event": "form.submitted", "data": "name:chinwe email:yemi96@yahoo.com phone:+254 797 262 732 card:3213325819626462 amount:$332"}
-conversation.created from amara44@gmail.com phone 0714226693 issue login failed at 11:15 PM
-{"event": "form.submitted", "data": "name:yemi email:ibrahim57@alumni.alueducation.com phone:+254 725 442 917 card:5122744689897048 amount:$3608"}
-{"event": "form.submitted", "data": "name:yemi email:tendai14@yahoo.com phone:0727787242 card:6491946813828134 amount:$879"}
-conversation.created from yemi32@alumni.alueducation.com phone +254 763 874 839 issue login failed at 2:30 PM
-{"event": "form.submitted", "data": "name:tendai email:ibrahim54@si.alueducation.com phone:+233-23-635-668 card:2952292137273950 amount:$157"}
-{"ts": "1732544823", "src": "github", "body": "payment failed $3228 card 5376229359974719 email tendai28@yahoo.com visit https://portal.alueducation.com?id=187", "ip": "41.186.93.12"}
-conversation.created from amara62@gmail.com phone +233-58-178-263 issue login failed at 8:53 PM
-{"event": "form.submitted", "data": "name:blessing email:ibrahim60@si.alueducation.com phone:0702551237 card:2214401864562116 amount:$2181"}
-{"event": "form.submitted", "data": "name:blessing email:fatima42@yahoo.com phone:+233-23-755-550 card:7697723181766290 amount:$1796"}
-{"event": "form.submitted", "data": "name:kwame email:fatima68@si.alueducation.com phone:+233-22-968-905 card:5353600529853310 amount:$2207"}
-conversation.created from chinwe25@alueducation.com phone +233-34-668-944 issue login failed at 6:54 PM
-{"ts": "1738507203", "src": "github", "body": "payment failed $502 card 2436171915243203 email chinwe10@alumni.alueducation.com visit https://portal.alueducation.com?id=772", "ip": "154.160.7.23"}
-{"event": "form.submitted", "data": "name:tendai email:tendai10@alueducation.com phone:+254 744 186 896 card:0986569156893418 amount:$2668"}
-conversation.created from yemi82@hotmail.com phone +233-47-664-820 issue login failed at 2:58 PM
-{"ts": "1700822120", "src": "zapier", "body": "payment failed $4268 card 7556595659561497 email yemi91@si.alueducation.com visit https://portal.alueducation.com?id=343", "ip": "197.234.71.88"}
-{"event": "form.submitted", "data": "name:kwame email:ibrahim37@gmail.com phone:0760322172 card:7820314301526962 amount:$2305"}
-conversation.created from kofi64@alueducation.com phone +233-58-198-924 issue login failed at 3:33 PM
-{"ts": "1711581990", "src": "intercom", "body": "payment failed $3108 card 0793257334416087 email tendai25@si.alueducation.com visit https://portal.alueducation.com?id=418", "ip": "102.68.12.9"}
-{"event": "form.submitted", "data": "name:sophia email:yemi82@si.alueducation.com phone:0786909611 card:2620849770028432 amount:$3956"}
-{"ts": "1737920279", "src": "zapier", "body": "payment failed $3794 card 8202573498935816 email fatima39@alumni.alueducation.com visit https://portal.alueducation.com?id=158", "ip": "41.186.93.12"}
-{"ts": "1725571354", "src": "webhook", "body": "payment failed $4454 card 6095647838549183 email ibrahim70@alueducation.com visit https://portal.alueducation.com?id=602", "ip": "10.0.0.1"}
-conversation.created from fatima67@hotmail.com phone +254 744 554 127 issue login failed at 3:26 PM
-conversation.created from tendai36@gmail.com phone 0754725037 issue login failed at 9:59 PM
-{"ts": "1701838237", "src": "zapier", "body": "payment failed $3132 card 9942299276217433 email amara37@si.alueducation.com visit https://portal.alueducation.com?id=764", "ip": "102.68.12.9"}
-conversation.created from blessing10@gmail.com phone +254 717 777 667 issue login failed at 9:35 PM
-conversation.created from fatima80@gmail.com phone 0772669325 issue login failed at 10:57 PM
-conversation.created from chinwe30@gmail.com phone +233-44-177-190 issue login failed at 5:35 PM
-{"ts": "1709558635", "src": "support", "body": "payment failed $922 card 3705396798667092 email amara70@alumni.alueducation.com visit https://portal.alueducation.com?id=654", "ip": "197.234.71.88"}
-{"ts": "1730863053", "src": "support", "body": "payment failed $632 card 2538417894408719 email sophia60@alumni.alueducation.com visit https://portal.alueducation.com?id=469", "ip": "41.186.93.12"}
-{"event": "form.submitted", "data": "name:kofi email:chinwe34@gmail.com phone:0701204443 card:4728514082800400 amount:$2055"}
-conversation.created from fatima52@alumni.alueducation.com phone 0754264962 issue login failed at 10:36 PM
-conversation.created from kwame17@si.alueducation.com phone 0708343679 issue login failed at 2:34 PM
-conversation.created from blessing44@alueducation.com phone +254 727 638 775 issue login failed at 12:32 PM
-conversation.created from kwame70@alumni.alueducation.com phone +233-49-469-684 issue login failed at 7:20 PM
-{"event": "form.submitted", "data": "name:tendai email:blessing79@yahoo.com phone:0771808952 card:1605934171792751 amount:$626"}
-{"ts": "1717136896", "src": "unknown", "body": "payment failed $3561 card 1478618348305310 email ibrahim55@alueducation.com visit https://portal.alueducation.com?id=895", "ip": "41.186.93.12"}
-conversation.created from ibrahim92@alueducation.com phone +254 742 545 120 issue login failed at 3:12 PM
-conversation.created from sophia74@yahoo.com phone 0793854627 issue login failed at 6:36 PM
-{"event": "form.submitted", "data": "name:tendai email:fatima76@si.alueducation.com phone:0790064725 card:7692903893119981 amount:$3446"}
-{"ts": "1710909382", "src": "typeform", "body": "payment failed $3409 card 0811845791864506 email sophia76@si.alueducation.com visit https://portal.alueducation.com?id=891", "ip": "10.0.0.1"}
-{"event": "form.submitted", "data": "name:yemi email:ibrahim55@gmail.com phone:0752293543 card:8683760221550515 amount:$3779"}
-{"ts": "1728427211", "src": "typeform", "body": "payment failed $3847 card 5650495774764160 email kwame37@alueducation.com visit https://portal.alueducation.com?id=666", "ip": "10.0.0.1"}
-{"event": "form.submitted", "data": "name:tendai email:chinwe33@si.alueducation.com phone:+254 710 709 923 card:3748431036601757 amount:$1780"}
-{"ts": "1734922157", "src": "webhook", "body": "payment failed $4191 card 5194098422080130 email yemi69@alueducation.com visit https://portal.alueducation.com?id=525", "ip": "154.160.7.23"}
-conversation.created from kwame44@yahoo.com phone 0785431028 issue login failed at 4:25 PM
-{"event": "form.submitted", "data": "name:blessing email:chinwe29@alueducation.com phone:+254 777 581 525 card:3275172504902361 amount:$2889"}
-conversation.created from sophia12@yahoo.com phone +233-50-727-951 issue login failed at 8:36 PM
-{"ts": "1735755669", "src": "unknown", "body": "payment failed $2098 card 6371706478792253 email kwame38@hotmail.com visit https://portal.alueducation.com?id=961", "ip": "102.68.12.9"}
-{"event": "form.submitted", "data": "name:ibrahim email:blessing78@hotmail.com phone:+254 799 729 334 card:3814900894156095 amount:$2213"}
-{"event": "form.submitted", "data": "name:kofi email:yemi66@gmail.com phone:0752770136 card:0449478907545803 amount:$119"}
-{"event": "form.submitted", "data": "name:kofi email:kofi86@hotmail.com phone:+254 729 886 583 card:4561595169417868 amount:$4086"}
-{"ts": "1714694796", "src": "slack", "body": "payment failed $1506 card 4932130108502262 email chinwe50@hotmail.com visit https://portal.alueducation.com?id=951", "ip": "41.186.93.12"}
-{"ts": "1719522874", "src": "github", "body": "payment failed $4354 card 6754282773727886 email amara58@alueducation.com visit https://portal.alueducation.com?id=908", "ip": "41.186.93.12"}
-conversation.created from yemi44@yahoo.com phone 0737950891 issue login failed at 1:55 PM
-conversation.created from sophia65@gmail.com phone +233-27-425-527 issue login failed at 10:11 PM
-conversation.created from sophia86@alumni.alueducation.com phone +254 728 141 651 issue login failed at 9:32 PM
-conversation.created from fatima50@alumni.alueducation.com phone +254 722 692 756 issue login failed at 2:29 PM
-{"ts": "1722749694", "src": "github", "body": "payment failed $3893 card 3151033532041248 email fatima13@si.alueducation.com visit https://portal.alueducation.com?id=495", "ip": "197.234.71.88"}
-{"ts": "1716815784", "src": "zapier", "body": "payment failed $3604 card 6703578070205853 email kwame58@gmail.com visit https://portal.alueducation.com?id=358", "ip": "154.160.7.23"}
-{"ts": "1710710449", "src": "slack", "body": "payment failed $1200 card 2482802849925989 email chinwe15@hotmail.com visit https://portal.alueducation.com?id=375", "ip": "102.68.12.9"}
-conversation.created from blessing13@yahoo.com phone 0767479664 issue login failed at 8:33 PM
-{"event": "form.submitted", "data": "name:kofi email:fatima70@hotmail.com phone:+233-26-860-775 card:3767903641426191 amount:$3658"}
-conversation.created from kofi91@yahoo.com phone 0717375082 issue login failed at 9:36 PM
-conversation.created from kofi62@yahoo.com phone +254 725 789 923 issue login failed at 10:33 PM
-conversation.created from fatima59@si.alueducation.com phone +254 742 653 899 issue login failed at 10:41 PM
-{"ts": "1702852565", "src": "unknown", "body": "payment failed $4822 card 2619886542463794 email kofi54@alueducation.com visit https://portal.alueducation.com?id=439", "ip": "102.68.12.9"}
-{"ts": "1735103961", "src": "github", "body": "payment failed $3062 card 2229758321579025 email ibrahim75@gmail.com visit https://portal.alueducation.com?id=358", "ip": "10.0.0.1"}
-{"ts": "1736384125", "src": "webhook", "body": "payment failed $3248 card 5828203033710726 email ibrahim29@alumni.alueducation.com visit https://portal.alueducation.com?id=465", "ip": "41.186.93.12"}
-{"ts": "1734979347", "src": "typeform", "body": "payment failed $323 card 1180066276549129 email tendai50@hotmail.com visit https://portal.alueducation.com?id=481", "ip": "10.0.0.1"}
-{"ts": "1718434775", "src": "zapier", "body": "payment failed $1705 card 4701844206089795 email tendai35@si.alueducation.com visit https://portal.alueducation.com?id=776", "ip": "10.0.0.1"}
-{"event": "form.submitted", "data": "name:blessing email:amara98@gmail.com phone:+233-38-235-344 card:3120712536597431 amount:$4915"}
-{"ts": "1731253876", "src": "webhook", "body": "payment failed $1077 card 6261099838990526 email yemi20@si.alueducation.com visit https://portal.alueducation.com?id=164", "ip": "197.234.71.88"}
-{"event": "form.submitted", "data": "name:amara email:kwame54@gmail.com phone:+233-44-161-482 card:8281621149926570 amount:$490"}
-{"event": "form.submitted", "data": "name:amara email:ibrahim60@yahoo.com phone:+233-24-577-118 card:2782050410191006 amount:$798"}
-{"ts": "1717621871", "src": "slack", "body": "payment failed $2486 card 9075629338032397 email fatima16@si.alueducation.com visit https://portal.alueducation.com?id=824", "ip": "102.68.12.9"}
-{"ts": "1735120881", "src": "webhook", "body": "payment failed $1821 card 9728990327903197 email ibrahim83@alumni.alueducation.com visit https://portal.alueducation.com?id=436", "ip": "10.0.0.1"}
-{"ts": "1729090958", "src": "intercom", "body": "payment failed $2301 card 6654978907971303 email blessing46@gmail.com visit https://portal.alueducation.com?id=999", "ip": "10.0.0.1"}
-{"ts": "1731951645", "src": "webhook", "body": "payment failed $3714 card 6078990569663386 email amara14@alumni.alueducation.com visit https://portal.alueducation.com?id=877", "ip": "154.160.7.23"}
-conversation.created from kofi70@si.alueducation.com phone +233-50-763-825 issue login failed at 5:32 PM
-{"event": "form.submitted", "data": "name:yemi email:tendai36@yahoo.com phone:0725783610 card:1462277357840870 amount:$2951"}
-conversation.created from yemi20@alueducation.com phone +233-28-139-750 issue login failed at 11:28 PM
-conversation.created from sophia79@yahoo.com phone +254 794 968 749 issue login failed at 2:53 PM
-conversation.created from tendai17@alumni.alueducation.com phone +233-28-523-109 issue login failed at 11:39 PM
-conversation.created from yemi76@hotmail.com phone 0772179312 issue login failed at 5:49 PM
-conversation.created from ibrahim46@si.alueducation.com phone +233-38-985-134 issue login failed at 2:49 PM
-{"event": "form.submitted", "data": "name:kofi email:blessing96@alumni.alueducation.com phone:+254 793 172 719 card:2902065703357522 amount:$4397"}
-conversation.created from kofi84@si.alueducation.com phone +254 779 926 268 issue login failed at 8:53 PM
-{"event": "form.submitted", "data": "name:fatima email:kwame33@hotmail.com phone:+254 715 181 824 card:1681815499604496 amount:$4103"}
-{"event": "form.submitted", "data": "name:fatima email:amara69@hotmail.com phone:+254 772 418 117 card:3782515119155457 amount:$779"}
-conversation.created from fatima23@hotmail.com phone 0722750035 issue login failed at 10:38 PM
-conversation.created from fatima39@yahoo.com phone +254 747 993 252 issue login failed at 11:10 PM
-{"ts": "1736627778", "src": "unknown", "body": "payment failed $4838 card 9809514673903530 email fatima54@alumni.alueducation.com visit https://portal.alueducation.com?id=630", "ip": "154.160.7.23"}
-conversation.created from ibrahim61@si.alueducation.com phone 0713016425 issue login failed at 4:16 PM
-{"ts": "1707723771", "src": "unknown", "body": "payment failed $3536 card 9937990017131643 email kofi24@yahoo.com visit https://portal.alueducation.com?id=887", "ip": "154.160.7.23"}
-{"ts": "1701519828", "src": "github", "body": "payment failed $4943 card 3322013833422126 email kofi26@yahoo.com visit https://portal.alueducation.com?id=227", "ip": "10.0.0.1"}
-{"event": "form.submitted", "data": "name:amara email:sophia32@yahoo.com phone:+233-50-273-684 card:0159987933611536 amount:$3401"}
-conversation.created from tendai83@si.alueducation.com phone +233-48-597-290 issue login failed at 2:55 PM
-{"ts": "1702693854", "src": "unknown", "body": "payment failed $1506 card 3793931248220437 email chinwe36@si.alueducation.com visit https://portal.alueducation.com?id=568", "ip": "41.186.93.12"}
-{"event": "form.submitted", "data": "name:fatima email:chinwe43@yahoo.com phone:0784017835 card:4777403954289261 amount:$4246"}
-conversation.created from tendai92@yahoo.com phone 0752038844 issue login failed at 12:58 PM
-{"ts": "1726803909", "src": "support", "body": "payment failed $4270 card 0463178459750538 email amara63@alueducation.com visit https://portal.alueducation.com?id=188", "ip": "154.160.7.23"}
-{"ts": "1731700767", "src": "webhook", "body": "payment failed $2371 card 3947324823552429 email amara99@hotmail.com visit https://portal.alueducation.com?id=897", "ip": "197.234.71.88"}
-conversation.created from blessing53@si.alueducation.com phone 0741877662 issue login failed at 9:55 PM
-conversation.created from tendai59@alumni.alueducation.com phone 0779660830 issue login failed at 4:56 PM
-{"ts": "1703596096", "src": "intercom", "body": "payment failed $54 card 3630823228305682 email blessing35@alumni.alueducation.com visit https://portal.alueducation.com?id=598", "ip": "154.160.7.23"}
-{"event": "form.submitted", "data": "name:ibrahim email:blessing48@alumni.alueducation.com phone:0746741951 card:1253874190396161 amount:$1826"}
-conversation.created from sophia23@yahoo.com phone +254 749 356 522 issue login failed at 9:33 PM
-{"ts": "1709206416", "src": "slack", "body": "payment failed $1755 card 1276896327474512 email fatima99@si.alueducation.com visit https://portal.alueducation.com?id=188", "ip": "197.234.71.88"}
-{"event": "form.submitted", "data": "name:blessing email:chinwe45@si.alueducation.com phone:0797562952 card:2793584011712085 amount:$4548"}
-conversation.created from kofi39@gmail.com phone 0763029921 issue login failed at 9:53 PM
-{"ts": "1710556011", "src": "github", "body": "payment failed $3697 card 7521338654531047 email sophia49@hotmail.com visit https://portal.alueducation.com?id=132", "ip": "197.234.71.88"}
-{"event": "form.submitted", "data": "name:tendai email:blessing94@alumni.alueducation.com phone:+233-32-919-198 card:0193618272451283 amount:$3276"}
-conversation.created from kofi39@alumni.alueducation.com phone +233-32-356-742 issue login failed at 6:57 PM
-conversation.created from ibrahim32@alumni.alueducation.com phone +233-36-241-922 issue login failed at 9:49 PM
-conversation.created from yemi89@si.alueducation.com phone +254 745 271 273 issue login failed at 1:56 PM
-{"ts": "1732259987", "src": "slack", "body": "payment failed $1984 card 9551136204135049 email kofi17@gmail.com visit https://portal.alueducation.com?id=795", "ip": "41.186.93.12"}
-{"ts": "1706004969", "src": "support", "body": "payment failed $4142 card 5692618830925960 email ibrahim71@alumni.alueducation.com visit https://portal.alueducation.com?id=652", "ip": "10.0.0.1"}
-{"ts": "1731307717", "src": "github", "body": "payment failed $1197 card 4852633193148398 email ibrahim47@yahoo.com visit https://portal.alueducation.com?id=123", "ip": "10.0.0.1"}
-conversation.created from ibrahim33@alueducation.com phone +254 776 366 361 issue login failed at 12:46 PM
-{"ts": "1714549424", "src": "slack", "body": "payment failed $1648 card 0752829518558701 email kwame94@alueducation.com visit https://portal.alueducation.com?id=481", "ip": "41.186.93.12"}
-{"ts": "1730693774", "src": "zapier", "body": "payment failed $478 card 0509998868414745 email sophia90@alueducation.com visit https://portal.alueducation.com?id=326", "ip": "41.186.93.12"}
-{"event": "form.submitted", "data": "name:chinwe email:chinwe94@alueducation.com phone:+254 789 795 585 card:7272604518926320 amount:$4423"}
-conversation.created from yemi89@hotmail.com phone +233-27-901-487 issue login failed at 1:27 PM
-conversation.created from chinwe57@si.alueducation.com phone +233-47-587-945 issue login failed at 2:15 PM
-{"event": "form.submitted", "data": "name:tendai email:sophia36@gmail.com phone:+254 788 106 785 card:9234090812562985 amount:$4661"}
-conversation.created from yemi25@yahoo.com phone +233-55-857-811 issue login failed at 5:58 PM
-conversation.created from chinwe59@hotmail.com phone +233-20-986-538 issue login failed at 8:43 PM
-{"ts": "1720143846", "src": "unknown", "body": "payment failed $2025 card 6380597727653361 email kofi91@gmail.com visit https://portal.alueducation.com?id=819", "ip": "10.0.0.1"}
-conversation.created from chinwe73@yahoo.com phone +254 786 352 783 issue login failed at 8:32 PM
+RAW FIREHOSE DUMP — UNPROCESSED WEBHOOK PAYLOADS
+Source: unified-api-gateway/v3 + webhook-ingestor/v2 + legacy_bridge
+Buffer flush at: 2026-05-24T18:30:00Z
+Export ID: EXP-20260524-00918 | Tenant: ORG-AF-00291
+WARNING: Raw unfiltered feed. No schema enforcement. Possible corruption.
+================================================================
+
+{"ts":"1731589543","ts":"1731589544","src":"legacy_db","evnt":"ticket.created","ref":"TXN-25397719","student_id":"ALU/24/GH/4937","name":"Nia Dlamini","email":"niadlamini@@gmail.com","phone":"0788 770 940","phone":"0788-770-940","card":"************2489","amount":"USD 15,827.05","currency":"USD"}
+{"ts":"1731578667","src":"banner_api","evnt":"transaction.processed","ref":"TXN-81216573","student_id":"ALU/22/KE/6752","name":"Zainab Mutua","email":"zainabmutua@yahoo.com","email2":"zainab.mutua@@hotmail.com","phone":"+250 789 95 11","status":"PARTIALLY_PROCESSED","status":"FAILED_RETRY","amount":2523240.46,"currency":"KES"
+{"ts":"1731585147","src":"zapier","evnt":"charge.pending","ref":"TXN-24032377","student_id":"ALU-23-GH-2406","name":"Yewande Okafor","email":"okafor.yewande@alumni.alueducation.com","phone":"+250 785 14","card":"5379-6603-3419-1825","card":"5379 6603 3419 1825","status":"FLAGGED_FOR_REVIEW","notes":"approved by HoD on 12/03/2025","notes":"DUPLICATE ENTRY DETECTED"}
+conversation.created from blessing10@yahoo.com phone +233-30-740-858 issue login failed at 9:47 PM
+conversation.created from blessing10@yahoo.com phone +233-30-740-858 issue login failed at 9:47 PM DUPLICATE_EVENT
+{"ts":"1739629081","src":"support","body":"payment failed $4648 card 8227129660850728 email kwame63@si.alueducation.com visit https://portal.alueducation.com?id=727","ip":"154.160.7.23"}
+{"ts":"1739160542","src":"webhook","body":"payment failed $3437 card 0031790203862155 email fatima79@hotmail.com visit https://portal.alueducation.com?id=673","ip":"197.234.71.88","ip":"197.234.71.88"}
+{"event":"form.submitted","data":"name:fatima email:yemi89@alumni.alueducation.com phone:+254 740 690 940 card:3002861185989713 amount:$3539","data":"CORRUPTED_OVERWRITE"}
+{"ts":"1733018533","src":"github","body":"payment failed $3301 card 9990151646833190 email ibrahim42@si.alueducation.com visit https://portal.alueducation.com?id=401","ip":"10.0.0.1","ip":"10.0.0.1"}
+{"ts":"1721544285","src":"intercom","body":"payment failed $1503 card 2693888911746847 email blessing59@gmail.com visit https://portal.alueducation.com?id=648","ip":"197.234.71.88"}
+conversation.created from sophia41@si.alueducation.com phone 0799 923 183 issue login failed at 8:38 PM
+conversation.created from sophia41@@si.alueducation.com phone +254--799--923--183 issue login failed at 8:38 PM
+{"ts":"1736842469","src":"support","body":"payment failed $4781 card 2371283880232792 email kwame98@alueducation.com visit https://portal.alueducation.com?id=143","ip":"154.160.7.23","status":"FAILED","status":"RETRY_PENDING"}
+{"ts":"1731571916","src":"crm-sync","evnt":"form.submitted","ref":"TXN-61559796","student_id":"ALU/25/GH/5448","name":"Oluwaseun Johnson","email":"oluwaseunjohnson@protonmail.com","email":"oluwaseun@@outlook.com","phone":"+1 (4) 8-1","card":"5518 4269 4500 5347","flag":"MISSING_STUDENT_ID","flag":"DUPLICATE_EMAIL"}
+{"ts":"1731576239","src":"mpesa_webhook","evnt":"ticket.created","ref":"TXN-57576607","student_id":"ALU_20_RW_3043","name":"Ngozi Kimani","email":"KIMANI.NGOZI@OUTLOOK.COM","phone":"+234 806 83","amount":"3787897.78","currency":"XOF","currency":"KES","status":"PENDING"}
+{"ts":"1731589626","src":"stripe_firehose","evnt":"profile.upsert","ref":"TXN-70516875","student_id":"ALU/19/NG/8433","name":"Kwame Smith","email":"ksmith@icloud.com","card":"6011421230940779","card":"6011 **** **** 0779","status":"COMPLETED","status":"FAILED_REVERSAL"}
+{"ts":"1731590830","src":"crm-sync","evnt":"email.received","ref":"TXN-82633735","student_id":"ALU-19-RW-8734","name":"Chiamaka Nakamura","email":"CHIAMAKA.NAKAMURA@outlook.com","email":"CHIAMAKA.NAKAMURA@@hotmail.com","notes":"urgent processing requested","notes":"DUPLICATE ENTRY FLAGGED"}
+{"ts":"1731595954","src":"legacy_db","evnt":"charge.pending","ref":"TXN-18325904","student_id":"ALU-23-NG-9866","name":"Sarah Kamau","email":"kamau.sarah@icloud.com","phone":"+1 (0) 6-6","card":"6011 **** **** 1908","status":"PARTIALLY_PROCESSED","status":"FAILED"}
+{"ts":"1731597177","src":"stripe_firehose","evnt":"conversation.created","ref":"TXN-48401154","student_id":"ALU24RW6438","name":"Kofi Phiri","email":"KOFI.PHIRI@outlook.com","phone":"+1 (1) 6-1","notes":"partial payment - balance due","notes":"SYSTEM_OVERWRITE"}
+{"ts":"1731572580","src":"zapier","evnt":"transaction.processed","ref":"TXN-67867771","student_id":"ALU/25/ZA/6606","name":"Kefilwe Dlamini","email":"kefilwe.dlamini@gmail.com","email":"kefilwe.dlamini@outlook.com","card":"6011 **** **** 1908","status":"REVERSED"}
+{"ts":"1731592009","src":"crm-sync","evnt":"ticket.created","ref":"TXN-41182544","student_id":"ALU24GH6616","name":"Kefilwe Muthoni","email":"kefilwe929@yahoo.com","amount":"224.67","currency":"USD","currency":"EUR","flag":"CURRENCY_MISMATCH"}
+{"ts":"1731596477","src":"typeform","evnt":"email.received","ref":"TXN-53309319","student_id":"ALU_22_ZA_4393","name":"Tendai Dlamini","email":"tendai.dlamini@alumni.alueducation.com","status":"FAILED","status":"FAILED","status":"FAILED"}
